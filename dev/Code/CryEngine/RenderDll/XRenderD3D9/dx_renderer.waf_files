@@ -1,9 +1,0 @@
-{
-    "none":
-    {
-        "DX":
-        [
-            "DX/RenderCapabilities.cpp"
-        ]
-    }
-}

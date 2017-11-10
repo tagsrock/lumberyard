@@ -1,8 +1,0 @@
-{
-    "name": "@cloud-gems/cloudgemingamesurvey",
-    "version": "1.0.0",
-    "description": "Cloud Gem - In-game Survey",
-    "private": true,
-    "dependencies": {
-    }
-}

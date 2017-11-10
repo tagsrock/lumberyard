@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/Panels/ObjectPanel">
-        <file alias="icon_layers.png">res/icon_layers.png</file>
-    </qresource>
-</RCC>

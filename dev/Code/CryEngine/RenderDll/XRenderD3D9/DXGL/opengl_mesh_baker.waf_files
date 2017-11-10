@@ -1,9 +1,0 @@
-{
-    "none":
-    {
-        "Source Files":
-        [
-            "../D3DMeshBaker.cpp"
-        ]
-    }
-}

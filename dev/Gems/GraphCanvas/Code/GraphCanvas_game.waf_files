@@ -1,9 +1,0 @@
-{
-    "auto":
-    {
-        "Root": [
-            "Source/GraphCanvasModule.h",
-            "Source/GraphCanvasGameModule.cpp"
-        ]
-    }
-}

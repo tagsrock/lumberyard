@@ -1,7 +1,0 @@
-{
-    "none": {
-        "Root": [
-            "crcfix.cpp"
-        ]
-    }
-}

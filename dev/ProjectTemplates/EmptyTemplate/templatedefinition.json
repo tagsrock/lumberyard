@@ -1,6 +1,0 @@
-{
-  "TemplateDefinitionVersion": 1,
-  "Name": "Empty",
-  "Description":  "This reference project for advanced users is the bare minimum Lumberyard project.",
-  "IconPath": "${ProjectName}/preview.png"
-}

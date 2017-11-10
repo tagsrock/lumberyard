@@ -1,8 +1,0 @@
-{
-    "auto": {
-        "Tests": [
-            "Tests/EMotionFXTest.cpp",
-            "Tests/EmotionFXMathLibTests.cpp"
-        ]
-    }
-}

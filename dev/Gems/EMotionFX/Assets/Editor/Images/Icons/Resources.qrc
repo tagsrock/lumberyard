@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/EMotionFX">
-        <file>ActorComponent.png</file>
-        <file>AnimGraphComponent.png</file>
-        <file>Restore.png</file>
-        <file>Trash.png</file>
-    </qresource>
-</RCC>

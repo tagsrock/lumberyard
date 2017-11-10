@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/Panels/EntityEventsPanel">
-        <file>res/icon_dot.png</file>
-    </qresource>
-</RCC>

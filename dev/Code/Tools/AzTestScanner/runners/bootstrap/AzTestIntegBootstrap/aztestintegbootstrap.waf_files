@@ -1,9 +1,0 @@
-{
-    "none":
-    {
-        "Source Files/Windows":
-        [
-            "dll_main.cpp"
-        ]
-    }
-}

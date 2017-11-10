@@ -1,8 +1,0 @@
-{
-    "none":
-    {
-        "FileWatcher": [
-            "native/FileWatcher/FileWatcher_macos.cpp"
-        ]
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "none":
-    {
-        "resources":
-        [
-            "Woodpecker/Editor/LuaEditor.rc"
-        ]
-    }
-}
